@@ -9,8 +9,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['18392018848','17063075276','18035638380']
-global.ownerName = 'Judge Dredd'
+global.ownerNumber = ['917021416029'
+global.ownerName = 'Prakash'
 global.packname = 'Dreadfully Judgmental'
 global.author = 'Dredd'
 global.prefa = ['.'] 
